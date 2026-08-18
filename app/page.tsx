@@ -261,7 +261,7 @@ export default function Home() {
         >
           <div className="flex flex-col items-start justify-between gap-4 sm:flex-row sm:items-center">
             <p className="text-xs text-muted-foreground">
-              built by teiaoginshry
+              built by lordpipon for teiaoginshry
             </p>
             <div className="flex gap-4">
               <a
