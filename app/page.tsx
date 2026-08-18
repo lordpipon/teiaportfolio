@@ -127,8 +127,8 @@ export default function Home() {
               transition={{ delay: 0.55, duration: 0.5 }}
               className="mt-4 max-w-lg text-base leading-relaxed text-muted-foreground"
             >
-              A creator and developer.
-              Building things that work.
+              A content creator.
+              Always growing.
             </motion.p>
 
             <motion.div
