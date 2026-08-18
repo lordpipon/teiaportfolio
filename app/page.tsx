@@ -265,12 +265,12 @@ export default function Home() {
             </p>
             <div className="flex gap-4">
               <a
-                href="https://github.com/TeiaoginsHry"
+                href="https://github.com/lordpipon"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-xs text-muted-foreground transition-colors hover:text-foreground"
               >
-                GitHub
+                lordpipon
               </a>
             </div>
           </div>
