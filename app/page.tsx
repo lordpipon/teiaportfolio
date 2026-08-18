@@ -270,7 +270,7 @@ export default function Home() {
                 rel="noopener noreferrer"
                 className="text-xs text-muted-foreground transition-colors hover:text-foreground"
               >
-                lordpipon
+                lordpipon's github
               </a>
             </div>
           </div>
