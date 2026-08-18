@@ -9,7 +9,6 @@ import { ThemeToggle } from "@/components/theme-toggle";
 const navLinks = [
   { label: "Home", href: "#home" },
   { label: "Socials", href: "#socials" },
-  { label: "Projects", href: "#projects" },
 ];
 
 function smoothScrollTo(href: string) {
@@ -79,7 +78,7 @@ export function Topbar() {
           whileHover={{ scale: 1.03 }}
           whileTap={{ scale: 0.97 }}
         >
-          lordpipon
+          teiaoginshry
           <span className="text-sm font-semibold tracking-tight">portfolio</span>
         </motion.a>
 

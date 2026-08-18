@@ -12,11 +12,11 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "lordpipon",
-    template: "%s | lordpipon",
+    default: "teiaoginshry",
+    template: "%s | teiaoginshry",
   },
   description:
-    "A minecraft server developer, linux user and a developer.",
+    "A creator and developer.",
   icons: {
     icon: "/pfp.png",
   },
