@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     template: "%s | teiaoginshry",
   },
   description:
-    "A creator and developer.",
+    "A content creator.",
   icons: {
     icon: "/pfp.png",
   },
